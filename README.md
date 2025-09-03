@@ -64,7 +64,7 @@ To achieve the data transformation, I:
 
 🔹 Team Performance: Sales output varies significantly across the team. David Cox's leading results ($704K revenue, 273 orders) position him as a key subject for best practice analysis. Robert Bauer's lower performance metrics ($520K revenue, 228 orders) suggest a need for targeted development initiatives to align his output with team benchmarks.
 
-💡
+
 # Recommendation
 
 🔹 Address June Sales Slump: Investigate the root cause of the June revenue dip and launch targeted promotional campaigns or limited-time discounts to mitigate future seasonal declines.
@@ -128,3 +128,4 @@ Key Insights:
 
 In 2024, MedX achieved strong revenue growth and customer engagement, primarily driven by clinics and hospitals. While performance is solid, significant opportunity exists in geographic expansion and mid-tier customer growth. Operational improvements in sales deployment, warehouse balance, and fulfillment are needed. Future success hinges on strategic shifts: optimizing distributor and discount strategies, and addressing underperforming products like antibiotics. For 2025, MedX should focus on expanding into new regions, deepening key account relationships, and implementing data-driven forecasting. These steps position the company to scale its impact and profitability effectively.
 
+<img width="674" height="252" alt="image" src="https://github.com/user-attachments/assets/d9eff032-9211-4c2a-b888-877658076db6" />
